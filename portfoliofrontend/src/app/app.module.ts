@@ -29,18 +29,7 @@ import { LogosApRedesSocialesLoginComponent } from './ComponentesMaquetacion/log
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
-    HeaderComponent,
-    AcercadeComponent,
-    ExperienciaComponent,
-    EducacionComponent,
-    HsskillsComponent,
-    ProyectosComponent,
-    LoginuserComponent,
-    BannerComponent,
-    HomeComponent,
-    LogosApRedesSocialesLoginComponent
-
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
